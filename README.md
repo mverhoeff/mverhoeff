@@ -8,11 +8,14 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=64a0c8&height=120&section=header" alt="header"/> 
 
-<h1 align="left"> Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30"/>, I'm Malte !</h1>
+<h1 align="center" > Hi there, I'm Malte !</h1>
 
+<h3 align="center" >Software Engineer - Computer Scientist - Student</h3>
+<!---
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=64a0c8&width=435&lines=Software+Engineer;Computer+Scientist;Student" alt="Business Analyst"/>
 </a>
+--->
 
 <h1 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Upside-Down%20Face.png" alt="Upside-Down Face" width="30"/> About Me:</h1>
 
