@@ -17,6 +17,8 @@
 </a>
 --->
 
+<img src="./assets/code.png" alt="My Image">
+
 <h1 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Upside-Down%20Face.png" alt="Upside-Down Face" width="30"/> About Me:</h1>
 
 🚧🚧🚧 Under Construction 🚧🚧🚧
