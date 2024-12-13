@@ -17,11 +17,15 @@
 </a>
 --->
 
-<img src="./assets/code.png" alt="My Image">
+<img src="./assets/code.png" alt="Banner">
 
 <h1 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Upside-Down%20Face.png" alt="Upside-Down Face" width="30"/> About Me:</h1>
 
-🚧🚧🚧 Under Construction 🚧🚧🚧
+<h4>🎓 I'm a Computer Science Student @️ <img src="./assets/tum_logo.png" alt="tum_logo" width="22"  style="text-align: center; padding-top: px;"><h4/>
+<h4>✨ I'm interested in AI, Computer Graphics and Simulation<h4/>
+<h4>🔭 txt<h4/>
+<h4>🔭 txt<h4/>
+<h4>🔭 txt<h4/>
 
 <h1 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="30"/> Skills</h1>
 🚧🚧🚧 Under Construction 🚧🚧🚧
