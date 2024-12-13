@@ -8,12 +8,12 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=64a0c8&height=120&section=header" alt="header"/> 
 
-<h1 align="center" > Hi there, I'm Malte !</h1>
+<h1 align="center" >Heyo, I'm Malte !</h1>
 
-<h3 align="center" >Software Engineer - Computer Scientist - Student</h3>
+<h3 align="center" >Software Engineer - Computer Scientist - Student</h3><br/><br/>
 <!---
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=64a0c8&width=435&lines=Software+Engineer;Computer+Scientist;Student" alt="Business Analyst"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=64a0c8&width=435&lines=Software+Engineer;Computer+Scientist;Student" alt="Student"/>
 </a>
 --->
 
