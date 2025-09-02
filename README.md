@@ -21,7 +21,7 @@
 
 <h1 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Upside-Down%20Face.png" alt="Upside-Down Face" width="30"/> About Me:</h1>
 
-<h4>🎓 I'm a Computer Science Student @️ <img src="./assets/tum_logo.png" alt="tum_logo" width="22"  style="text-align: center; padding-top: px;"><h4/>
+<h4>🎓 I'm a Computer Science Student @️ <img src="./assets/tum_logo.png" alt="tum_logo" width="22"  style="text-align: center; padding-top: px;"> and Product Manager @ Checkmk<h4/>
 <h4>✨ I'm interested in AI, Computer Graphics and Simulation<h4/>
 <h4>🔭 Currently learing Computer Architecture<h4/>
 <h4>👥 Open for new Projects and Collaborations. Feel free to reach out!<h4/>
