@@ -23,7 +23,7 @@
 
 <h4>🎓 I'm a Computer Science Student @️ <img src="./assets/tum_logo.png" alt="tum_logo" width="22"  style="text-align: center; padding-top: px;"> and Product Manager @ Checkmk<h4/>
 <h4>✨ I'm interested in AI, Computer Graphics and Simulation<h4/>
-<h4>🔭 Currently learing Computer Architecture<h4/>
+<h4>🔭 Currently looking into perception for intelligent systems<h4/>
 <h4>👥 Open for new Projects and Collaborations. Feel free to reach out!<h4/>
 <h4>🏡 Outside Tech I like to watch Movies and Shows, play Games and socialize with Friends<h4/>
 
