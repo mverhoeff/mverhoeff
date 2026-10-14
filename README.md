@@ -21,11 +21,11 @@
 
 <h1 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Upside-Down%20Face.png" alt="Upside-Down Face" width="30"/> About Me:</h1>
 
-<h4>🎓 I'm a Computer Science Student @️ <img src="./assets/tum_logo.png" alt="tum_logo" width="22"  style="text-align: center; padding-top: px;"> and Product Manager @ Checkmk<h4/>
-<h4>✨ I'm interested in AI, Computer Graphics and Simulation<h4/>
-<h4>🔭 Currently looking into perception for intelligent systems<h4/>
-<h4>👥 Open for new Projects and Collaborations. Feel free to reach out!<h4/>
-<h4>🏡 Outside Tech I like to watch Movies and Shows, play Games and socialize with Friends<h4/>
+<h4>🎓 I'm a computer science student @️ <img src="./assets/tum_logo.png" alt="tum_logo" width="22"  style="text-align: center; padding-top: px;"> and product manager @ Checkmk.<h4/>
+<h4>✨ I'm interested in deep learning, simulation and design.<h4/>
+<h4>🔭 Currently looking into numerical programming.<h4/>
+<h4>👥 I’m always open to new projects and collaborations, so feel free to reach out!<h4/>
+<h4>🏡 When I’m not working on tech, you’ll usually find me watching films and series, playing video games, or out with my camera.<h4/>
 
 <h1 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="30"/> Featured</h1>
 
@@ -51,18 +51,3 @@
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Fedora Badge](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff&style=for-the-badge)](https://fedoraproject.org/)
-
-<h1 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30"/> GitHub Stats</h1>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mverhoeff&theme=gruvbox_duo&hide_border=true" alt="mverhoeff streak badge"/><br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=mverhoeff&theme=dark&show_icons=true&hide_border=true" alt="mverhoeff trophies"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mverhoeff&theme=dark&hide_border=true" alt="mverhoeff trophies"/>
-</div>
-
-
-<h1 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="30"/> GitHub Trophies</h1>
-
-<div id="header" align="center">
-    <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=mverhoeff&theme=chalk&row=1&column=6&no-bg=true&no-frame=true" alt="mverhoeff" /></img> </p>
-    <p align="center"> <img src="https://komarev.com/ghpvc/?username=mverhoeff&style=for-the-badge&color=64a0c8" alt="views" /></img> </p>
-</div>
